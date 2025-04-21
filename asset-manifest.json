@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/bhavana-portfolio/static/css/main.37834927.css",
+    "main.js": "/bhavana-portfolio/static/js/main.3c193d40.js",
+    "static/js/453.b05d8aa5.chunk.js": "/bhavana-portfolio/static/js/453.b05d8aa5.chunk.js",
+    "static/media/bg-light.png": "/bhavana-portfolio/static/media/bg-light.bac0efb485244a522981.png",
+    "static/media/bg-dark.png": "/bhavana-portfolio/static/media/bg-dark.f420c6b8458af72de935.png",
+    "static/media/bhavpic.jpg": "/bhavana-portfolio/static/media/bhavpic.da258b05ccba46c2ae30.jpg",
+    "static/media/ai.jpg": "/bhavana-portfolio/static/media/ai.9725474100c5a81ead2f.jpg",
+    "index.html": "/bhavana-portfolio/index.html",
+    "main.37834927.css.map": "/bhavana-portfolio/static/css/main.37834927.css.map",
+    "main.3c193d40.js.map": "/bhavana-portfolio/static/js/main.3c193d40.js.map",
+    "453.b05d8aa5.chunk.js.map": "/bhavana-portfolio/static/js/453.b05d8aa5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.37834927.css",
+    "static/js/main.3c193d40.js"
+  ]
+}
